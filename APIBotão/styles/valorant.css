@@ -1,0 +1,43 @@
+/* Estilo básico para o corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0f1923;
+    color: #ece8e1;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff4655;
+    font-size: 3rem;
+    margin-top: 20px;
+}
+
+#imagem img {
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+/* Estilizando as informações dos agentes */
+div {
+    font-size: 1.2rem;
+    margin: 10px 0;
+}
+
+/* Estilizando os botões */
+button {
+    background-color: #ff4655;
+    color: #ece8e1;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #d33b4d;
+}
