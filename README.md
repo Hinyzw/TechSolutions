@@ -1,4 +1,4 @@
-https://hinyzw.github.io/TechSolutions/
+https://TailyniDev.github.io/TechSolutions/
 
 | Pessoa  | Cpf |
 | ------------- | ------------- |
